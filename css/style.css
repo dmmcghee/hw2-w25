@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin: 20px 20px 0px 20px
@@ -40,6 +40,7 @@ div{
     text-align: right;
     margin-left: 50px;
     border-width: 0px 0px 2px 5px;
+    height: 125px;
     /* border-bottom: 2px;
     border-left: 5px; */
 }
